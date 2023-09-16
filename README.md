@@ -1,6 +1,6 @@
-## Foundry
+## Foundry Fund Me
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**Practice for writing, testing and deploying smart contracts on testnet. I followed [Patrick Collins](https://github.com/PatrickAlphaC)' educational videos for this repo.**
 
 Foundry consists of:
 
